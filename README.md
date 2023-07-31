@@ -1,17 +1,17 @@
 ![Header](https://github.com/ViktoriyaAdamovich/viktoriyaadamovich/blob/main/assets/header.png)
 
-SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich
+# SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich
 
-TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
-ABOUT ME
+### ABOUT ME
 
-PROJECTS
+### PROJECTS
 
-COURSES
+### COURSES
 
-TOOLS & LANGUAGES
+### TOOLS & LANGUAGES
 
-TECH SKILLS
+### TECH SKILLS
 
-SOFT SKILLS
+### SOFT SKILLS
