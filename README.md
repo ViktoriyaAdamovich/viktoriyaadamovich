@@ -3,7 +3,7 @@
 ![Header](https://github.com/ViktoriyaAdamovich/viktoriyaadamovich/blob/main/assets/header.png)
 
 <div id="Header-name">
-# SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich
+<p> SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich </p>
 </div>
 
 ### TABLE OF CONTENTS
