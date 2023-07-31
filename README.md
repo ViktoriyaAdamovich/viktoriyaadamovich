@@ -1,4 +1,4 @@
-![Header](https://github.com/ViktoriyaAdamovich/viktoriyaadamovich/blob/main/assets/header.png)
+Header
 
 SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich
 
