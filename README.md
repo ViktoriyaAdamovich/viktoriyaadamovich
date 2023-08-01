@@ -39,8 +39,6 @@
 
 ### PROJECTS
 
-### COURSES
-
 - #### IT Banda course (September 2022 - December 2022)
     This course included website layout design, creating a simple database, connecting it, and also writing some SQL queries to the database.
     [Some of created queries here](https://docs.google.com/document/d/1f2_8SgImtlb4QUZwkdVSrlDi_g-k93ZqACeDE1gtmIk/edit?usp=sharing) 
@@ -50,6 +48,9 @@
 
 - #### My owm Tests
     
+
+
+### COURSES
 
 ### CONTACT ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
