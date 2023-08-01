@@ -3,13 +3,9 @@
 # SOFTWARE TESTER PORTFOLIO - Viktoriya Adamovich 
 
 ### TABLE OF CONTENTS
-#### | ABOUT ME | PROJECTS | COURSES | TOOLS & LANGUAGES | TECH SKILLS | SOFT SKILLS 
+#### | [ABOUT ME](https://github.com/ViktoriyaAdamovich#about-me) | [TOOLS](https://github.com/ViktoriyaAdamovich#tools) | [TECH SKILLS](https://github.com/ViktoriyaAdamovich#tech-skills) | [SOFT SKILLS](https://github.com/ViktoriyaAdamovich#soft-skills) | [PROJECTS](https://github.com/ViktoriyaAdamovich#projects) | [COURSES](https://github.com/ViktoriyaAdamovich#courses) | [CONTACT ME]() |
 
 ### ABOUT ME
-
-### PROJECTS
-
-### COURSES
 
 ### TOOLS 
 ![DevTools](https://img.shields.io/badge/DevTools-577019?)
@@ -21,6 +17,24 @@
 ![Jira](https://img.shields.io/badge/Jira-577019?)
 ![MS_Exel](https://img.shields.io/badge/MS_Exel-577019?)
 ![MS_Word](https://img.shields.io/badge/MS_Word-577019?)
-### TECH SKILLS & LANGUAGES
+![HTML](https://img.shields.io/badge/HTML-577019?)
+![CSS](https://img.shields.io/badge/CSS-577019?)
+![JS](https://img.shields.io/badge/JS-577019?)
+
+### TECH SKILLS
 
 ### SOFT SKILLS
+Analytical thinking
+
+Looking for effective solutions
+
+Creativity
+
+Quick learning ability
+### PROJECTS
+
+### COURSES
+
+### CONTACT ME
+
+
