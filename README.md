@@ -5,8 +5,10 @@
 ### TABLE OF CONTENTS
 #### | [ABOUT ME](https://github.com/ViktoriyaAdamovich#about-me) | [TOOLS](https://github.com/ViktoriyaAdamovich#tools) | [TECH SKILLS](https://github.com/ViktoriyaAdamovich#tech-skills) | [SOFT SKILLS](https://github.com/ViktoriyaAdamovich#soft-skills) | [PROJECTS](https://github.com/ViktoriyaAdamovich#projects) | [COURSES](https://github.com/ViktoriyaAdamovich#courses) | [CONTACT ME](https://github.com/ViktoriyaAdamovich#contact-me) |
 ___
+
 ### ABOUT ME
 ___
+
 ### TOOLS 
 ![DevTools](https://img.shields.io/badge/DevTools-577019?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-577019?style=for-the-badge)
@@ -14,6 +16,7 @@ ___
 ![PHP_MyAdmin](https://img.shields.io/badge/PHP_MyAdmin-577019?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-577019?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-577019?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-577019?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-577019?style=for-the-badge)
 ![MS_Exel](https://img.shields.io/badge/MS_Exel-577019?style=for-the-badge)
 ![MS_Word](https://img.shields.io/badge/MS_Word-577019?style=for-the-badge)
@@ -21,6 +24,7 @@ ___
 ![CSS](https://img.shields.io/badge/CSS-577019?style=for-the-badge)
 ![JS](https://img.shields.io/badge/JS-577019?style=for-the-badge)
 ___
+
 ### TECH SKILLS
 - Knowledge of testing procedures and the creation of test documentation
 - DevTools knowledge
@@ -29,6 +33,7 @@ ___
 - Knowledge of what SQL databases are and how they work
 - Communicative English
 ___
+
 ### SOFT SKILLS
 
 - Analytical thinking
@@ -37,6 +42,7 @@ ___
 - Creativity
 - Politeness
 ___
+
 ### PROJECTS
 
 - #### IT Banda course (September 2022 - December 2022)
@@ -51,14 +57,13 @@ ___
     
     [Test Cases for Website tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
 
-    [Triangles. Bug Reports in Jira examples]()
-    
+    [Triangles. Bug Reports in Jira examples]()    
 ___
 
 ### COURSES
 ___
+
 ### CONTACT ME
-<a href="https://www.linkedin.com/in/viktoriya-adamovich/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
 [![Telegram](https://img.shields.io/badge/Telegram-577019?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snowhite_queen)
