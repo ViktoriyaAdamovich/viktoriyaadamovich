@@ -58,6 +58,8 @@ ___
 ### COURSES
 ___
 ### CONTACT ME
+<a href="https://www.linkedin.com/in/viktoriya-adamovich/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
 [![Telegram](https://img.shields.io/badge/Telegram-577019?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snowhite_queen)
 
