@@ -41,13 +41,13 @@
 
 - #### IT Banda course (September 2022 - December 2022)
     This course included website layout design, creating a simple database, connecting it, and also writing some SQL queries to the database.
-    [Some of created queries here](https://docs.google.com/document/d/1f2_8SgImtlb4QUZwkdVSrlDi_g-k93ZqACeDE1gtmIk/edit?usp=sharing) 
+    [Some of created queries here](https://docs.google.com/document/d/1f2_8SgImtlb4QUZwkdVSrlDi_g-k93ZqACeDE1gtmIk/edit?usp=sharing)
 
 - #### IT Banda course 
-    ...also included teamwork. One of the projects was the development of a simple gaming application using HTML, CSS, and JS. [Here is the code](https://drive.google.com/drive/folders/1-CNXaEC2iyG6YtwxV6cw7iC1AA1A3iJs?usp=sharing)
+    ...also included teamwork. One of the projects was the development of a simple gaming application using HTML, CSS, and JS. [Here is the code](<a href="https://drive.google.com/drive/folders/1-CNXaEC2iyG6YtwxV6cw7iC1AA1A3iJs?usp=sharing" target="_blank">)
 
 - #### My owm Tests 
-    [Tapptic QA exercise](https://docs.google.com/document/d/17PR68P8BCT66Ds80MKV9IMM9zDqf3roOkDNjKZV0Fs0/edit?usp=sharing)
+    [Tapptic QA examples](https://docs.google.com/document/d/17PR68P8BCT66Ds80MKV9IMM9zDqf3roOkDNjKZV0Fs0/edit?usp=sharing)
     
     [Test Cases for tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
 
