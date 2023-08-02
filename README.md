@@ -56,4 +56,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
 [![Telegram](https://img.shields.io/badge/Telegram-577019?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snowhite_queen)
 
-[↑ UP ↑](https://github.com/ViktoriyaAdamovich#software-tester-portfolio---viktoriya-adamovich)
+[↑ UP ↑](https://github.com/ViktoriyaAdamovich)
