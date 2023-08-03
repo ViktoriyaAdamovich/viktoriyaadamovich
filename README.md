@@ -27,6 +27,8 @@ ___
 
 ### TECH SKILLS
 - Knowledge of testing procedures and the creation of test documentation
+- Manual testing
+- GUI testing
 - DevTools knowledge
 - Understanding of SDLS methodologies
 - Knowledge in developing applications on the basis of languages HTML, CSS and JS
@@ -55,12 +57,14 @@ ___
 - #### My owm Tests
     [Creation of cheklists and test cases based on a user story](https://docs.google.com/document/d/17PR68P8BCT66Ds80MKV9IMM9zDqf3roOkDNjKZV0Fs0/edit?usp=sharing)
     
-    [Test Cases for Website tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
+    [Examples of check list and test cases for website tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
 
     [Triangles. Bug Reports in Jira examples]()    
 ___
 
 ### COURSES
+- #### IT Banda course (September 2022 - December 2022)
+- #### SQL: Tester Tools (July 2023)
 ___
 
 ### CONTACT ME
