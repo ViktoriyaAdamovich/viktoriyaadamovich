@@ -59,7 +59,7 @@ ___
     
     [Examples of check list and test cases for website tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
 
-    [Triangles. Bug Reports in Jira examples]()    
+    [Triangles. Bug Reports in Jira examples](https://docs.google.com/document/d/1LucQiTbWQOccwnB2ernLA9EWgzyQtIsVLMjwbWZrAug/edit?usp=sharing)    
 ___
 
 ### COURSES
@@ -71,6 +71,6 @@ ___
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
 [![Telegram](https://img.shields.io/badge/Telegram-577019?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snowhite_queen)
-
+___
 
 [![**↑ UP ↑**](https://img.shields.io/badge/UP-577019?style=for-the-badge)](https://github.com/ViktoriyaAdamovich)
