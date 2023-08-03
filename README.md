@@ -64,7 +64,7 @@ ___
 
 ### COURSES
 - #### IT Banda course (September 2022 - December 2022)
-- #### SQL: Tester Tools (July 2023)
+- #### SQL: Tester Tools video cours (July 2023)
 ___
 
 ### CONTACT ME
