@@ -64,7 +64,7 @@ ___
 
 ### COURSES
 - #### IT Banda course (September 2022 - December 2022)
-- #### SQL: Tester Tools video cours (July 2023)
+- #### SQL: Tester Tools video course (July 2023)
 ___
 
 ### CONTACT ME
@@ -72,4 +72,5 @@ ___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-577019?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriya-adamovich/)
 [![Telegram](https://img.shields.io/badge/Telegram-577019?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/snowhite_queen)
 
-[**↑ UP ↑**](https://github.com/ViktoriyaAdamovich)
+
+[![**↑ UP ↑**](https://img.shields.io/badge/UP-577019?style=for-the-badge)](https://github.com/ViktoriyaAdamovich)
