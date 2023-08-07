@@ -7,6 +7,13 @@
 ___
 
 ### ABOUT ME
+
+
+Hello, my name is Viktoriya. I am a beginner QA engineer. I possess knowledge about testing procedures and test documentation creation, understand the software development life cycle and bug life cycle. I am adept at using devtools. Comprehend working with databases and making SQL queries. Can create bug reports in Jira. Have skills in languages (HTML, CSS, and JS).
+
+I am highly motivated to advance and grow in the field of software testing. I possess analytical thinking and consistently strive to optimize, expedite, and enhance work processes.
+Currently, I am actively seeking new opportunities for employment. If my projects resonate with you and you are interested in collaboration, please feel free to get in touch with me!
+
 ___
 
 ### TOOLS 
