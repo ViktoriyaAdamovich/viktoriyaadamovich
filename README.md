@@ -56,7 +56,7 @@ ___
 
 - #### IT Banda course (September 2022 - December 2022)
     This course included website layout design, creating a simple database, connecting it, and also writing some SQL queries to the database.
-    [Some of created queries here](https://docs.google.com/document/d/1f2_8SgImtlb4QUZwkdVSrlDi_g-k93ZqACeDE1gtmIk/edit?usp=sharing)
+    [Some of created SQL queries you can see here](https://docs.google.com/document/d/1f2_8SgImtlb4QUZwkdVSrlDi_g-k93ZqACeDE1gtmIk/edit?usp=sharing)
 
 - #### IT Banda course 
     ...also included teamwork. One of the projects was the development of a simple gaming application using HTML, CSS, and JS. [Here is the code](https://drive.google.com/drive/folders/1-CNXaEC2iyG6YtwxV6cw7iC1AA1A3iJs?usp=sharing)
@@ -72,6 +72,7 @@ ___
 ### COURSES
 - #### IT Banda course (September 2022 - December 2022)
 - #### SQL: Tester Tools video course (July 2023)
+- #### GoIT QA Marathon (June 2023)
 ___
 
 ### CONTACT ME
