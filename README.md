@@ -66,7 +66,7 @@ ___
     
     [Examples of check list and test cases for website tinify.com](https://docs.google.com/spreadsheets/d/12GXwY1ffiV-8r1ENynfYQYppUvlw1dsMSybnsMVmG38/edit?usp=sharing)
 
-    [Triangles. Bug Reports in Jira examples](https://docs.google.com/document/d/1LucQiTbWQOccwnB2ernLA9EWgzyQtIsVLMjwbWZrAug/edit?usp=sharing)    
+    ["Triangles". Bug Reports in Jira examples & Bug Reports in Azure Devops examples](https://docs.google.com/document/d/1LucQiTbWQOccwnB2ernLA9EWgzyQtIsVLMjwbWZrAug/edit?usp=sharing)    
 ___
 
 ### COURSES
