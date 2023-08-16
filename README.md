@@ -70,6 +70,9 @@ ___
 ___
 
 ### COURSES
+- #### GoIT FrontEnd Marathon (August 2022)
+- #### GoIT UI\UX Marathon (August 2022)
+- #### [UI\UX Design course in ITEA (September 2022 - October 2022)](https://github.com/ViktoriyaAdamovich/viktoriyaadamovich/blob/74f47f845f44dcb65a07ab491b755849b8a25164/assets/Viktoriia%20Adamovych%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%20ITEA.pdf) 
 - #### IT Banda course (September 2022 - December 2022)
 - #### SQL: Tester Tools video course (July 2023)
 - #### GoIT QA Marathon (June 2023)
