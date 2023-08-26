@@ -30,6 +30,7 @@ ___
 ![HTML](https://img.shields.io/badge/HTML-577019?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-577019?style=for-the-badge)
 ![JS](https://img.shields.io/badge/JS-577019?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-577019?style=for-the-badge)
 ___
 
 ### TECH SKILLS
